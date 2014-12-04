@@ -4,7 +4,7 @@
   "dependencies": {
     "sass-loader": {
       "version": "0.3.1",
-      "from": "sass-loader@^0.3.1",
+      "from": "https://registry.npmjs.org/sass-loader/-/sass-loader-0.3.1.tgz",
       "resolved": "https://registry.npmjs.org/sass-loader/-/sass-loader-0.3.1.tgz",
       "dependencies": {
         "loader-utils": {
@@ -51,7 +51,7 @@
                   "dependencies": {
                     "ansi-regex": {
                       "version": "0.2.1",
-                      "from": "ansi-regex@^0.2.0",
+                      "from": "ansi-regex@^0.2.1",
                       "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz"
                     }
                   }
@@ -63,7 +63,7 @@
                   "dependencies": {
                     "ansi-regex": {
                       "version": "0.2.1",
-                      "from": "ansi-regex@^0.2.0",
+                      "from": "ansi-regex@^0.2.1",
                       "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz"
                     }
                   }
